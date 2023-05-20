@@ -1,0 +1,5 @@
+[
+    {"nombre": "Remera","texto": "En Stock","precio": "1300","id": "1"},
+    {"nombre": "Short","texto": "En Stock","precio": "1500","id": "2"},
+    {"nombre": "Camiseta","texto": "En Stock","precio": "1300","id": "3"}
+]
